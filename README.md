@@ -68,12 +68,12 @@ The application operates through a sophisticated multi-layered system:
 For optimal assistance, please follow our support hierarchy:
 
 1. **Moderator Support** (Primary Contact)
-   - WhatsApp: [+880 1966-822079](https://wa.me/8801966822079)
+   - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801966822079)
    - Response Time: 5-15 minutes
    - Available: 24/7
 
 2. **Admin Support** (Escalation Only)
-   - WhatsApp: [+880 1627096941](https://wa.me/8801627096941)
+   - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801627096941)
    - Response Time: 1-2 hours
    - Available: Business Hours (BST)
 
@@ -82,7 +82,7 @@ For optimal assistance, please follow our support hierarchy:
 ## 🚀 Download & Installation
 
 ### Download Latest Version
-[![Download APK](https://img.shields.io/badge/Download-APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/shrabonofficial/Organic-traffic-/releases/tag/Organic_traffic)
+[![Download APK](https://img.shields.io/badge/📲_Download_APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/shrabonofficial/Organic-traffic-/releases/tag/Organic_traffic)
 
 ### Installation Steps
 
@@ -143,11 +143,40 @@ For optimal assistance, please follow our support hierarchy:
 - Free trial starts immediately upon first login
 - API rate limits are managed automatically
 
+## 📱 Quick Contact Buttons
+
+### Get Instant Support
+
+| Support Type | Contact Button | Response Time |
+|--------------|----------------|---------------|
+| **Moderator Support** | [![Chat on WhatsApp](https://img.shields.io/badge/Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801966822079) | 5-15 Minutes |
+| **Admin Support** | [![Chat on WhatsApp](https://img.shields.io/badge/Admin_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801627096941) | 1-2 Hours |
+
+**🔹 Contact Moderator First** - For faster response and general queries  
+**🔹 Contact Admin Only** - For complex technical issues and licensing
+
+---
+
+## 📞 Direct WhatsApp Connection
+
+### Tap the Buttons Below to Start Chatting
+
+<div align="center">
+
+| | |
+|:---:|:---:|
+| **Moderator Support**<br>(Faster Response) | **Admin Support**<br>(Escalation Only) |
+| [![WhatsApp](https://img.shields.io/badge/📱_Start_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/8801966822079) | [![WhatsApp](https://img.shields.io/badge/📱_Start_Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/8801627096941) |
+
+</div>
+
+---
+
 ## 🤝 Support & Community
 
 ### Official Channels
-- **WhatsApp Support**: [+880 1966-822079](https://wa.me/8801966822079)
-- **Admin Contact**: [+880 1627096941](https://wa.me/8801627096941)
+- **WhatsApp Support**: [Click to Chat](https://wa.me/8801966822079)
+- **Admin Contact**: [Click to Chat](https://wa.me/8801627096941)
 - **GitHub Issues**: [Create an issue](https://github.com/shrabonofficial/Organic-traffic-/issues)
 
 ### Response Times
@@ -186,7 +215,23 @@ By using this application, you agree to:
 
 ### 🌟 Ready to Boost Your Blog Traffic?
 
-[![Download Now](https://img.shields.io/badge/📲-Download_APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/shrabonofficial/Organic-traffic-/releases/tag/Organic_traffic)
+[![Download Now](https://img.shields.io/badge/📲_Download_APK-2ea44f?style=for-the-badge&logo=android)](https://github.com/shrabonofficial/Organic-traffic-/releases/tag/Organic_traffic)
+
+</div>
+
+---
+
+## 💬 Quick WhatsApp Access
+
+### Need Help? Just Click the Button!
+
+<div align="center">
+
+[![Chat with Moderator](https://img.shields.io/badge/💬_Chat_with_Moderator-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/8801966822079)  
+*Average response: 5-15 minutes*
+
+[![Chat with Admin](https://img.shields.io/badge/💬_Chat_with_Admin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=128C7E)](https://wa.me/8801627096941)  
+*Average response: 1-2 hours*
 
 </div>
 
