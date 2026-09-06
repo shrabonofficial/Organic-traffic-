@@ -1,0 +1,14 @@
+name: 24/7 Traffic Engine
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify Function
+        run: |
+          curl -X GET "https://globalseotop1.netlify.app/.netlify/functions/traffic-cron?secret=GSEO247&threads=8&cycles=5"
